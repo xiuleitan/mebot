@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:inset="23.148148%">
+    <bitmap
+        android:src="@drawable/ic_launcher_lucky_cat_artwork"
+        android:gravity="fill"
+        android:filter="true" />
+</inset>

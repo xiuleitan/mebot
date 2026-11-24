@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path name="attachments" path="media/originals/" />
+    <cache-path name="subscription_ui_camera" path="subscription_ui_camera/" />
+    <cache-path name="archive_ui_camera" path="archive_ui_camera/" />
+    <cache-path name="archive_exports" path="archive_exports/" />
+    <cache-path name="dayima_ui_camera" path="dayima_ui_camera/" />
+</paths>

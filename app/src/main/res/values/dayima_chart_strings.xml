@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dayima_chart_range_order">开始日期不能晚于截止日期。</string>
+    <string name="dayima_chart_range_future">历史统计的截止日期不能在未来。</string>
+    <string name="dayima_chart_distribution">周期天数分布图</string>
+    <string name="dayima_chart_deck_label">历史图表卡片</string>
+    <string name="dayima_chart_deck_next">下一张图表</string>
+    <string name="dayima_chart_deck_previous">上一张图表</string>
+    <string name="dayima_chart_count_percent">%1$d 次 · %2$s%%</string>
+    <string name="dayima_chart_day_label">%1$d 天</string>
+    <string name="dayima_chart_days_range">%1$d～%2$d 天</string>
+    <string name="dayima_chart_frequency_axis">次数</string>
+    <string name="dayima_chart_bin_accessibility">%1$s，%2$d 次，占 %3$s%%</string>
+    <string name="dayima_chart_no_completed">至少记录两次开始日期后，才有完整周期可统计。</string>
+    <string name="dayima_chart_no_eligible">这个范围内没有参与普通统计的完整周期。</string>
+    <string name="dayima_chart_no_range_cycles">这个日期范围内还没有完整周期。</string>
+    <string name="dayima_chart_trend">年龄趋势图</string>
+    <string name="dayima_chart_time">时间</string>
+    <string name="dayima_chart_years">年份</string>
+    <string name="dayima_chart_age">年龄</string>
+    <string name="dayima_chart_time_axis">周期开始日期</string>
+    <string name="dayima_chart_year_axis">周期开始年份</string>
+    <string name="dayima_chart_age_axis">年龄</string>
+    <string name="dayima_chart_length_axis">周期长度（天）</string>
+    <string name="dayima_chart_age_missing">填写出生日期后，可以按每次开始时的年龄查看。</string>
+    <string name="dayima_chart_age_no_points">还没有可显示的年龄数据，请检查出生日期和经期记录。</string>
+    <string name="dayima_chart_view_cycles">查看本图周期 · %1$d</string>
+    <string name="dayima_chart_plot_description">%1$s，%2$d 个周期，纵轴 %3$s 到 %4$s 天。圆点为原始周期，横线为中位数，竖线为居中一半范围，叉号为已排除或待复核周期。可点击图表查看原始日期。</string>
+    <string name="dayima_chart_selection_title">对应的原始周期</string>
+    <string name="dayima_chart_selected_points">选中的周期</string>
+    <string name="dayima_chart_selected_year">%1$d 年的周期</string>
+    <string name="dayima_chart_selected_age">%1$d 岁的周期</string>
+    <string name="dayima_chart_selected_all">所选范围的周期</string>
+    <string name="dayima_chart_selected_counts">%1$d 个周期 · %2$d 个有效</string>
+    <string name="dayima_chart_selected_empty">记录更新后，这一项已没有匹配周期。</string>
+    <string name="dayima_chart_window_source">部分周期开始日在当前范围之外；滚动中位数也会引用范围开始前的记录。</string>
+    <string name="dayima_chart_cycle_dates">%1$s → %2$s</string>
+    <string name="dayima_chart_cycle_age">开始时 %1$d 岁</string>
+    <string name="dayima_chart_open_start">查看起点记录</string>
+    <string name="dayima_chart_open_end">查看下次记录</string>
+    <string name="dayima_chart_group_summary">中位数 %1$s 天 · 居中一半 %2$s～%3$s 天 · %4$d 个有效周期</string>
+    <string name="dayima_chart_sparse_group">有效周期不足 3 个，暂不显示分组汇总。</string>
+</resources>

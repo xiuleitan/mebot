@@ -1,0 +1,2 @@
+# Keep the Gradle launcher compatible with Windows checkouts.
+/gradlew.bat text eol=crlf

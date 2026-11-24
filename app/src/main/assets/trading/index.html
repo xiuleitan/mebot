@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src data:; font-src 'none'; connect-src 'none'; base-uri 'none'; form-action 'none'">
+  <link rel="stylesheet" href="chart.css">
+  <script defer src="klinecharts-10.1.1.js"></script>
+  <script defer src="chart.js"></script>
+</head>
+<body>
+  <div id="chart" aria-label="BTCUSDT 成交价 K 线图"></div>
+  <div id="crosshair-price" hidden aria-hidden="true">
+    <span id="crosshair-delta" hidden></span>
+    <span id="crosshair-value"></span>
+  </div>
+</body>
+</html>

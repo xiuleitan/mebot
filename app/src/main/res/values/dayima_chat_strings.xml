@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dayima_chat_history">对话记录</string>
+    <string name="dayima_chat_hint">说说情况，或直接说“今天来了”</string>
+    <string name="dayima_chat_intro">记录经期日期，或询问周期情况。</string>
+    <string name="dayima_chat_working">正在理解与处理…</string>
+    <string name="dayima_chat_draft_failed">输入尚未保存，文字仍保留。</string>
+    <string name="dayima_chat_draft_conflict">草稿已在其他位置变化，当前输入仍保留。</string>
+    <string name="dayima_chat_keep_retry">保留当前输入并重试</string>
+    <string name="dayima_chat_send_failed">消息未确认发送，输入仍保留。</string>
+    <string name="dayima_chat_retry_send">重试发送</string>
+    <string name="dayima_chat_retry">重试本次请求</string>
+    <string name="dayima_chat_configuration">请先在设置中的“模型与 API”保存语言模型配置和 Key。</string>
+    <string name="dayima_chat_credential">无法解密已保存的 Key，请在模型设置中重新保存。</string>
+    <string name="dayima_chat_authorization">模型鉴权失败，请检查 Key、地域及模型权限。</string>
+    <string name="dayima_chat_billing">模型额度不足，请检查模型账户。</string>
+    <string name="dayima_chat_network">无法连接模型。输入与记录保留，手动功能仍可使用。</string>
+    <string name="dayima_chat_timeout">等待模型超时，可以重试本次请求。</string>
+    <string name="dayima_chat_rate_limit">模型请求过于频繁，请稍后重试。</string>
+    <string name="dayima_chat_service">模型服务暂时不可用，请稍后重试。</string>
+    <string name="dayima_chat_invalid">模型返回内容无法执行，尚未据此修改记录，请重试或补充说明。</string>
+    <string name="dayima_chat_local_failed">本地处理未完成，请重试；已保存的数据不会重复新增。</string>
+    <string name="dayima_chat_changed">聊天或记录已变化，本次结果未继续执行。请核对后重试。</string>
+    <string name="dayima_chat_interrupted">上次处理已中断，消息保留，可重试本次请求。</string>
+    <string name="dayima_chat_load_failed">聊天读取失败，请重试。原有聊天与业务记录保留。</string>
+    <string name="dayima_chat_older">加载更早消息</string>
+    <string name="dayima_chat_older_failed">更早消息读取失败，可重试。</string>
+    <string name="dayima_chat_history_empty">还没有聊天记录</string>
+    <string name="dayima_chat_history_failed">对话记录读取失败</string>
+    <string name="dayima_chat_untitled">新聊天</string>
+    <string name="dayima_chat_current">当前聊天</string>
+    <string name="dayima_chat_more_sessions">加载更多聊天</string>
+    <string name="dayima_chat_delete">删除聊天</string>
+    <string name="dayima_chat_delete_title">删除这次聊天？</string>
+    <string name="dayima_chat_delete_body">只删除这次聊天的消息和草稿。已保存的经期日期、备注、出生日期和提醒规则保留；未完成请求将失效。</string>
+    <string name="dayima_chat_delete_failed">聊天未能删除，请重试。</string>
+</resources>

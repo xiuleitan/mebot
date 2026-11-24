@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+  overflow: hidden;
+}
+
+/* Android WebView can resolve percentage heights to zero during layout. */
+#chart {
+  position: fixed;
+  inset: 0;
+  touch-action: none;
+}
+
+#crosshair-price {
+  position: fixed;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  box-sizing: border-box;
+  padding: 0 4px;
+  border-radius: 2px;
+  transform: translateY(-50%);
+  background: var(--crosshair-neutral, #2B394B);
+  color: var(--crosshair-text, #E8EFF8);
+  font: 9px/1 sans-serif;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+#crosshair-price[hidden] {
+  display: none;
+}
+
+#crosshair-delta {
+  padding-right: 5px;
+  border-right: 1px solid currentColor;
+}

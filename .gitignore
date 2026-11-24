@@ -1,0 +1,67 @@
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+app/google-services.json
+app/src/*/google-services.json
+app/src/debug/assets/probe-local-ca.crt
+*.iml
+.DS_Store
+*.jks
+*.keystore
+captures/
+
+# Local configuration, credentials and diagnostic data
+.env
+.env.*
+!.env.example
+!.env.sample
+*.p12
+*.pfx
+*.key
+*.log
+*.hprof
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Android build products
+*.apk
+*.aab
+.cxx/
+.externalNativeBuild/
+
+
+# Python development
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Local probe-vps server state and credentials
+*.pem
+*.crt
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite3-shm
+*.sqlite3-wal
+/probe-vps/secrets/
+/probe-vps/data/
+/probe-vps/api-token
+/probe-vps/*service-account*.json
+/probe-vps/*firebase-adminsdk*.json
+/probe-vps/watch.commands
+
+# Private workspace material
+/docs/development/codex-sessions.json
+/docs/development/worktrees.md
+/docs/development/session-coordination.md
+/relay-app/

@@ -1,0 +1,4 @@
+# Optional Gradle properties. Set the SDK location in Android Studio or with ANDROID_HOME.
+# sdk.dir=<Android SDK directory>
+# mebot.decisionEndpoint=https://models.example.com/compatible-mode/v1/systemone
+# mebot.probeEndpoint=https://alerts.example.com/api/v1/

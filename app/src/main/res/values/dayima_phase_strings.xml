@@ -1,0 +1,21 @@
+<resources>
+    <string name="dayima_phase_cycle_day">本周期第 %1$d 天</string>
+    <string name="dayima_phase_illustration">%1$s科普示意图</string>
+    <string name="dayima_phase_estimated">估计：%1$s</string>
+    <string name="dayima_phase_current_description">%1$s，当前估计阶段</string>
+    <string name="dayima_phase_menstrual">经期</string>
+    <string name="dayima_phase_follicular">卵泡期</string>
+    <string name="dayima_phase_ovulation">排卵期</string>
+    <string name="dayima_phase_luteal">黄体期</string>
+    <string name="dayima_phase_menstrual_current">经期参考段</string>
+    <string name="dayima_phase_follicular_current">卵泡期（经后）</string>
+    <string name="dayima_phase_ovulation_current">排卵期附近</string>
+    <string name="dayima_phase_luteal_current">黄体期参考段</string>
+    <string name="dayima_phase_none">等待开始记录</string>
+    <string name="dayima_phase_unknown">阶段暂无法估计</string>
+    <string name="dayima_phase_awaiting">等待本次记录</string>
+    <string name="dayima_phase_menstrual_features">子宫内膜脱落形成月经。部分人会有下腹痉挛或不适，感受和持续时间因人而异。</string>
+    <string name="dayima_phase_follicular_features">卵泡期从月经第一天开始，包含经期。卵泡逐渐发育，雌激素上升，子宫内膜重新生长。</string>
+    <string name="dayima_phase_ovulation_features">卵巢释放卵子。分泌物可能变得清亮、湿润、可拉丝，部分人会有轻微单侧下腹不适，也可能没有明显感觉。</string>
+    <string name="dayima_phase_luteal_features">黄体分泌孕酮，支持子宫内膜。部分人可能出现乳房胀痛、腹胀或情绪变化；并非每个人都会出现。</string>
+</resources>

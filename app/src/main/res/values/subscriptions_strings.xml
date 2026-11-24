@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="subscriptions_title">订阅管理</string>
+    <string name="subscriptions_month">%1$d年%2$d月</string>
+    <string name="subscriptions_previous_month">上月</string>
+    <string name="subscriptions_count">%1$d项持续订阅</string>
+    <string name="subscriptions_billing_date">下次扣费</string>
+    <string name="subscriptions_end_date">有效期至</string>
+    <string name="subscriptions_cycle">计费周期</string>
+    <string name="subscriptions_payment">支付方式</string>
+    <string name="subscriptions_account">账号</string>
+    <string name="subscriptions_notes">备注</string>
+    <string name="subscriptions_input_label">订阅聊天输入</string>
+    <string name="subscriptions_input_placeholder">发截图，或说说新的订阅…</string>
+    <string name="subscriptions_chat_hint">说说你订阅了什么，或发一张订阅截图。</string>
+</resources>

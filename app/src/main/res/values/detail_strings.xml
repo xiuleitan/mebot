@@ -1,0 +1,12 @@
+<resources>
+    <string name="detail_delete">删除</string>
+    <string name="detail_delete_cancel">取消</string>
+    <string name="detail_delete_confirm">确认</string>
+    <string name="detail_delete_pending">删除中…</string>
+    <string name="flashnote_delete_confirmation_title">确认删除闪念</string>
+    <string name="flashnote_delete_confirmation_body">确定删除“%1$s”吗？闪念及其专属附件将一起删除。</string>
+    <string name="subscription_delete_confirmation_title">确认删除订阅</string>
+    <string name="subscription_delete_confirmation_body">确定删除“%1$s”吗？从持续订阅列表移除，已有聊天、图片和消费数据保留，可从“已结束的订阅”找回。这不会取消服务商续费。</string>
+    <string name="archive_delete_confirmation_title">确认删除档案</string>
+    <string name="archive_delete_confirmation_body">确定删除“%1$s”吗？档案卡片会被移除；相关会话历史和附件仍会保留，可在会话记录中查看。</string>
+</resources>
